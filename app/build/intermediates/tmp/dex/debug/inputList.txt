@@ -1,0 +1,2 @@
+C:\Users\Hytham\AndroidStudioProjects\CxemCar1-master1\app\build\intermediates\classes\debug
+C:\Users\Hytham\AndroidStudioProjects\CxemCar1-master1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-8a96de97063c7806e0b954e9ee40db2c175e5031.jar

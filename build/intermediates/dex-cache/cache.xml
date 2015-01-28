@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Hytham\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Hytham\AndroidStudioProjects\CxemCar1-master1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-8a96de97063c7806e0b954e9ee40db2c175e5031.jar" />
+    </item>
+
+</items>
